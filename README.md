@@ -1,7 +1,17 @@
 
-# Changes
+# Objective
+Create hadoop fully configured 3 node cluster on top of docker. 
 
-Version 3.0.1 introduces uses wait_for_it script for the cluster startup
+# Changes
+Version 3.0.1 introduces uses wait_for_it script for the cluster startup.
+I sugggest run the script and go take coffe some juice and come back your hadoop envirement will be ready to use. 
+
+# Git repo 
+I recomment if you are not faimilar with Github than go through this link
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
+
+# Steps for up the cluster
+
 
 # Three node Hadoop Cluster on Docker Envirement
 
